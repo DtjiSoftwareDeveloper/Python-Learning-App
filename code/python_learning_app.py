@@ -34,7 +34,7 @@ def clear():
         os.system('clear')  # For Linux System
 
 
-# Importing necessary class
+# Creating necessary classes
 
 
 class Question:
